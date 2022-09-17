@@ -49,7 +49,7 @@ section#character-list {
 .card {
     display: flex;
     background-color: white;
-    height: 205px;
+    height: 250px;
     width: 410px;
     border-radius: .5rem;
     margin: 20px 0;
